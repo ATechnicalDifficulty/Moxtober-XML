@@ -19,3 +19,16 @@
 		<text>Whenever a creature leaves your graveyard, if it wasn’t from this ability, you may return target creature card with mana value less than or equal to the mana value of that creature from the graveyard to the battlefield. </text>
 		<tablerow>2</tablerow>
 	</card>
+	<card> <!-- Day 2: The Dead of Eidhos -->
+		<name>The Dead of Eidhos</name>
+		<set rarity="Rare" picURL="https://i.imgur.com/r81We8f.png">MOX</set>
+		<color>GWU</color>
+		<manacost>GWU</manacost>
+		<cmc>3</cmc>
+		<type>Legendary Creature - Spirit</type>
+		<pt>4/4</pt>
+		<text>Flying, hexproof
+Whenever The Dead of Eidhos attacks, investigate.
+T, Sacrifice 4 Clues: Exile target creature.</text>
+		<tablerow>2</tablerow>
+	</card>
