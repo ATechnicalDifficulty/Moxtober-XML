@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Amulet of Unmaking"/>
+        <card number="1" name="Arcane Signet"/>
+        <card number="1" name="Arid Mesa"/>
+        <card number="1" name="Azor's Gateway"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Bloodstained Mire"/>
+        <card number="1" name="Brittle Effigy"/>
+        <card number="1" name="City of Brass"/>
+        <card number="1" name="Clay Golem"/>
+        <card number="1" name="Clone Shell"/>
+        <card number="1" name="Cloud Key"/>
+        <card number="1" name="Combustible Gearhulk"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Conversion Chamber"/>
+        <card number="1" name="Corridor Monitor"/>
+        <card number="1" name="Coveted Jewel"/>
+        <card number="1" name="Cranial Archive"/>
+        <card number="1" name="Crook of Condemnation"/>
+        <card number="1" name="Cursed Mirror"/>
+        <card number="1" name="Duplicant"/>
+        <card number="1" name="Elsewhere Flask"/>
+        <card number="1" name="Epochrasite"/>
+        <card number="1" name="Etherium Sculptor"/>
+        <card number="1" name="Exotic Orchard"/>
+        <card number="1" name="Eye of Doom"/>
+        <card number="1" name="Faerie Mechanist"/>
+        <card number="1" name="Fireforger's Puzzleknot"/>
+        <card number="1" name="Fleetwheel Cruiser"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Foundry Inspector"/>
+        <card number="1" name="Furnace Dragon"/>
+        <card number="1" name="Glassblower's Puzzleknot"/>
+        <card number="1" name="Golden Egg"/>
+        <card number="1" name="Gonti's Aether Heart"/>
+        <card number="9" name="Island"/>
+        <card number="1" name="Izzet Signet"/>
+        <card number="1" name="Jester's Scepter"/>
+        <card number="1" name="Mana Confluence"/>
+        <card number="1" name="Manascape Refractor"/>
+        <card number="1" name="Mazemind Tome"/>
+        <card number="1" name="Meteor Golem"/>
+        <card number="1" name="Midnight Clock"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="10" name="Mountain"/>
+        <card number="1" name="Myr Incubator"/>
+        <card number="1" name="Myr Welder"/>
+        <card number="1" name="Mystic Forge"/>
+        <card number="1" name="Perilous Vault"/>
+        <card number="1" name="Pilgrim's Eye"/>
+        <card number="1" name="Polluted Delta"/>
+        <card number="1" name="Precursor Golem"/>
+        <card number="1" name="Prismatic Vista"/>
+        <card number="1" name="Prophetic Prism"/>
+        <card number="1" name="Reckless Fireweaver"/>
+        <card number="1" name="Relic of Progenitus"/>
+        <card number="1" name="Sandstone Oracle"/>
+        <card number="1" name="Scalding Tarn"/>
+        <card number="1" name="Sentinel Totem"/>
+        <card number="1" name="Silent Gravestone"/>
+        <card number="1" name="Skittering Surveyor"/>
+        <card number="1" name="Skyscanner"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Soul of New Phyrexia"/>
+        <card number="1" name="Spare Supplies"/>
+        <card number="1" name="Spine of Ish Sah"/>
+        <card number="1" name="Staunch Throneguard"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Surveyor's Scope"/>
+        <card number="1" name="Sword of the Ages"/>
+        <card number="1" name="Tatsumasa, the Dragon's Fang"/>
+        <card number="1" name="Tezzeret's Gatebreaker"/>
+        <card number="1" name="Thought Monitor"/>
+        <card number="1" name="Treasure Mage"/>
+        <card number="1" name="Tribute Mage"/>
+        <card number="1" name="Trinket Mage"/>
+        <card number="1" name="Trophy Mage"/>
+        <card number="1" name="Tsabo's Web"/>
+        <card number="1" name="Ugin's Nexus"/>
+        <card number="1" name="Volcanic Island"/>
+        <card number="1" name="Witching Well"/>
+        <card number="1" name="Wooded Foothills"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Rusfel, Trinket Seller"/>
+    </zone>
+</cockatrice_deck>
