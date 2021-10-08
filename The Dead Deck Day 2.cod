@@ -22,7 +22,6 @@
         <card number="1" name="Cultivate"/>
         <card number="1" name="Daring Sleuth"/>
         <card number="1" name="Darksteel Mutation"/>
-        <card number="1" name="Declaration in Stone"/>
         <card number="1" name="Dennick, Pious Apprentice"/>
         <card number="1" name="Doubling Season"/>
         <card number="1" name="Erdwal Illuminator"/>
@@ -34,18 +33,15 @@
         <card number="1" name="Flooded Strand"/>
         <card number="1" name="Floodhound"/>
         <card number="5" name="Forest"/>
-        <card number="1" name="Generous Gift"/>
         <card number="1" name="Glassdust Hulk"/>
         <card number="1" name="Graf Mole"/>
         <card number="1" name="Hallowed Fountain"/>
         <card number="1" name="Illusionist's Bracers"/>
-        <card number="1" name="Imprisoned in the Moon"/>
         <card number="1" name="Inspiring Statuary"/>
         <card number="5" name="Island"/>
         <card number="1" name="Junk Winder"/>
         <card number="1" name="Kenrith's Transformation"/>
         <card number="1" name="Kiora's Follower"/>
-        <card number="1" name="Lignify"/>
         <card number="1" name="Lonis, Cryptozoologist"/>
         <card number="1" name="Magnifying Glass"/>
         <card number="1" name="Mana Confluence"/>
@@ -69,8 +65,6 @@
         <card number="1" name="Shimmer Dragon"/>
         <card number="1" name="Simic Signet"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Song of the Dryads"/>
-        <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Talisman of Curiosity"/>
         <card number="1" name="Talisman of Progress"/>
         <card number="1" name="Talisman of Unity"/>
@@ -91,6 +85,12 @@
         <card number="1" name="Wild Growth"/>
         <card number="1" name="Windswept Heath"/>
         <card number="1" name="Wooded Foothills"/>
+        <card number="1" name="Approach of the Second Sun"/>
+        <card number="1" name="Helix Pinnacle"/>
+        <card number="1" name="Time Warp"/>
+        <card number="1" name="Time Stretch"/>
+        <card number="1" name="Temporal Manipulation"/>
+        <card number="1" name="Pemmin's Aura"/>
     </zone>
     <zone name="side">
         <card number="1" name="The Dead of Eidhos"/>

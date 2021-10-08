@@ -44,3 +44,40 @@ T, Sacrifice 4 Clues: Exile target creature.</text>
 3: Return an artifact you control from exile to the battlefield under your control.</text>
 		<tablerow>2</tablerow>
 	</card>
+	<card> <!-- Day 4: Aname, Dream Drifter -->
+		<name>Aname, Dream Drifter</name>
+		<set rarity="Rare" picURL="https://i.imgur.com/EBiRErz.png">MOX</set>
+		<color>WU</color>
+		<manacost>2WU</manacost>
+		<cmc>4</cmc>
+		<type>Legendary Creature - Human Shaman</type>
+		<pt>2/3</pt>
+		<text>Flying
+Whenever a creature with flying you control becomes the target of a spell or ability, exile it. Return it to the battlefield under your control at the beginning of the next end step.</text>
+		<tablerow>2</tablerow>
+	</card>
+	<card> <!-- Day 5: The Stalker of Nightmares -->
+		<name>The Stalker of Nightmares</name>
+		<set rarity="Mythic Rare" picURL="https://i.imgur.com/FYjTQs1.png">MOX</set>
+		<color>B</color>
+		<manacost>1BB</manacost>
+		<cmc>3</cmc>
+		<type>Legendary Creature - Nightmare Horror</type>
+		<pt>3/1</pt>
+		<text>If it’s neither day nor night, it becomes day as The Stalker of Nightmares enters the battlefield.
+Whenever day becomes night, The Stalker of Nightmares deals damage equal to its power divided as you choose among any number of targets. Each opponent discards a card and mills a card. You gain 3 life.</text>
+		<tablerow>2</tablerow>
+	</card>
+	<card> <!-- Day 6: Mother Anomatos -->
+		<name>Mother Anomatos</name>
+		<set rarity="Mythic Rare" picURL="https://i.imgur.com/uGQswZU.png">MOX</set>
+		<color>GWUB</color>
+		<manacost>GWUB</manacost>
+		<cmc>4</cmc>
+		<type>Legendary Creature - Human Shaman</type>
+		<pt>2/2</pt>
+		<text>Saga spells you cast cost GWUB less to cast. This effect reduces only the amount of colored mana you pay. 
+At the beginning of each opponent’s upkeep, you may put a lore counter on target Saga you control.
+T: Copy target triggered ability of a Saga you control. You may choose new targets for the copy.</text>
+		<tablerow>2</tablerow>
+	</card>
